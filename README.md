@@ -1,4 +1,4 @@
-# Breast Cancer Detection
+# Breast Cancer Detection using CNN
 Originally this project was done purely on python which i uploaded in Brest_Cancer_Detection.py but then for displaying purposes it was converted to ipynb file to view in google colab so a few changes were made to display it more properly.
 
 You can visit the project in the Colab Link given below.

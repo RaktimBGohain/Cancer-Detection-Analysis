@@ -3,7 +3,7 @@ Originally this project was done purely on python which i uploaded in Customer_I
 
 You can visit the project in the Colab Link given below.
 
-The dataset folder should be in the folder as the code.
+The dataset folder should be in the same folder as the code.
 
 ## Colab Link: 
 <Link of colab>
